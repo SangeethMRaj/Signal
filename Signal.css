@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* #navbarNav li{
+    padding: 8px;
+} */
+.main-part{
+    background-color: #9dbbf8;
+}
+.signalbutton{
+    width: 150px;
+    height: 50px;
+    background-color: white;
+    color: blue;
+    border-radius: 9px;
+    border: 1px solid white;
+
+}
+.main-part h1{
+    margin-top: 200px;
+    font-size: 60px;
+    font-weight: 800;
+}
+.main-part p{
+    font-size: 25px;
+}
+.col-lg-1 img{
+    border-radius: 50%;
+}
+#edward{
+    font-size: large;
+}
+.quotess-section{
+    background-color: #ececec;
+    padding-bottom: 150px;
+}
+.quotes-signal{
+    background-color: #ececec;
+}
+.why-signal p{
+    text-align: center;
+}
+.insecurity h2{
+    font-size: 50px;
+    font-weight: 800;
+}
+.insecurity p{
+    font-size: 20px;
+}
+.insecurity img{
+    border-radius: 10px;
+}
+.qwer{
+    background-color: #f6f6f6;
+}
+.qwert{
+   background-color: white;
+    border-radius: 15px;
+}
+.asdf{
+    background-color: white;
+    border-radius: 15px;
+}
+.no-tag h2{
+    font-size: 40px;
+    font-weight: 800;
+}
+.no-tag-image img{
+border-radius: 10px;
+}
+.free-signal h2{
+    font-size: 40px;
+    font-weight: 800;
+}
+.free-to-donate img{
+    border-radius: 15px;
+}
+.last-section{
+    background-color: #3c3844;
+    color: white;
+}
+.last-section li{
+    list-style-type: none;
+}
+li:hover{
+    text-decoration: underline;
+}
